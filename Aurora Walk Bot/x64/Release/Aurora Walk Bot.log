@@ -1,0 +1,68 @@
+﻿  Main.cpp
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(17,52): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(17,52): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(18,50): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(18,50): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(25,46): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(25,46): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(32,37): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'void *' of greater size
+  (compiling source file 'Main.cpp')
+  
+  reader.cpp
+  walkbot.cpp
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(17,52): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(17,52): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(18,50): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(18,50): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(25,46): warning C4311: '<function-style-cast>': pointer truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(25,46): warning C4302: '<function-style-cast>': truncation from 'void *' to 'uint32_t'
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\nav_file.h(32,37): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'void *' of greater size
+  (compiling source file 'walkbot.cpp')
+  
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(285,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(286,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(306,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(307,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(334,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(422,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(444,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(589,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,73): warning C4101: 'clippingWeapon': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,52): warning C4101: 'playerMoneyServices': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,101): warning C4101: 'playerNameData': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,15): warning C4101: 'list_entry': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,27): warning C4101: 'list_entry2': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,89): warning C4101: 'weaponData': unreferenced local variable
+C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\Aurora Walk Bot\walkbot.cpp(548,40): warning C4101: 'playerPawn': unreferenced local variable
+  Generating code
+  8 of 1767 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Aurora Walk Bot.vcxproj -> C:\Users\Admin\OneDrive\Masaüstü\Aurora Walk Bot\x64\Release\Aurora Walk Bot.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
